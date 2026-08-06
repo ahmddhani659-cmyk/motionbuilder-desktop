@@ -1,0 +1,10 @@
+go.sum linguist-generated
+*.py linguist-detectable  
+
+**/*.py linguist-detectable
+*.png binary
+* text=auto eol=lf
+*.jpg binary
+*.json linguist-detectable=false   
+
+public/*.html linguist-vendored
